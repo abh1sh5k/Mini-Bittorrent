@@ -37,3 +37,5 @@ remove <filename.mtorrent>
 ```
 close
 ```
+#### Summary
+[![Torrent-diagram.jpg](https://i.postimg.cc/T1nYXCCh/Torrent-diagram.jpg)](https://postimg.cc/MfK87bk8)
